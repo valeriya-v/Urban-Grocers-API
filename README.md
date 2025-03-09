@@ -1,7 +1,7 @@
 # Sprint 7 project
 
 # Description:
-Working on tests tests for GET, POST, PUT, and DELETE requests for Urban Grocers Application.
+Working on tests for GET, POST, PUT, and DELETE requests for Urban Grocers Application.
 
 # Documentation:
 This project uses apiDoc for maintaining API documentation. 
