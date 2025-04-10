@@ -7,11 +7,16 @@ Working on tests for GET, POST, PUT, and DELETE requests for Urban Grocers Appli
 This project uses apiDoc for maintaining API documentation. 
 
 # Tecnologies and techniques:
+
+VSCode: Code editor
+
 GIT
 
 Node.js
 
 Jest: Testing framework
+
+DevTools
 
 
 # Instructions:
