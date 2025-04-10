@@ -14,7 +14,7 @@ Node.js
 Jest: Testing framework
 
 
-# Instructions for test:
+# Instructions:
 -Clone the repository from Github to your computer using git clone.
 
 -Before starting your work with the project, run npm install from the console in your project folder. 
