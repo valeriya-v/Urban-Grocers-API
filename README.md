@@ -1,4 +1,4 @@
-# Automation testing project during Tripleten QA Course
+# Automation Testing project on Tripleten QA Course
 
 # Description:
 Working on tests for GET, POST, PUT, and DELETE requests for Urban Grocers Application.
